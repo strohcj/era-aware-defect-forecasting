@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Era-Aware Defect Forecasting (Research Teaser)"
+message: "If you use this repository, please cite it as below."
+authors:
+  - family-names: "Stroh"
+    given-names: "Cynthia"
+version: "0.1.0"
+date-released: "2025-10-02"
+repository-code: "https://github.com/strohcj/era-aware-defect-forecasting"
