@@ -1,5 +1,7 @@
 # Era-Aware Defect Forecasting (Research Teaser)
 
+https://zenodo.org/badge/DOI/10.5281/zenodo.17298533.svg
+
 Repository: https://github.com/strohcj/era-aware-defect-forecasting
 
 This repository shares **methodology, evaluation harness, and synthetic data** for an
