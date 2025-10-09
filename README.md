@@ -1,5 +1,7 @@
 # Era-Aware Defect Forecasting (Research Teaser)
 
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--9787--0266-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0002-9787-0266)
+
 https://zenodo.org/badge/DOI/10.5281/zenodo.17298533.svg
 
 Repository: https://github.com/strohcj/era-aware-defect-forecasting
