@@ -4,6 +4,34 @@ message: "If you use this repository, please cite it as below."
 authors:
   - family-names: "Stroh"
     given-names: "Cynthia"
+    orcid: "https://orcid.org/0009-0002-9787-0266"
 version: "0.1.0"
 date-released: "2025-10-02"
+
+# Link to the code and the DOI landing page
 repository-code: "https://github.com/strohcj/era-aware-defect-forecasting"
+url: "https://doi.org/10.5281/zenodo.17298533"
+doi: "10.5281/zenodo.17298533"
+
+keywords:
+  - time-series
+  - forecasting
+  - pytorch
+  - patchtst
+  - software-analytics
+  - capacity-planning
+  - bertopic
+  - evaluation
+
+preferred-citation:
+  type: software
+  title: "Era-Aware Defect Forecasting"
+  authors:
+    - family-names: "Stroh"
+      given-names: "Cynthia"
+      orcid: "https://orcid.org/0009-0002-9787-0266"
+  year: 2025
+  version: "0.1.0"
+  doi: "10.5281/zenodo.17298533"
+  url: "https://doi.org/10.5281/zenodo.17298533"
+
