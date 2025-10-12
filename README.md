@@ -45,3 +45,20 @@ academic use is permitted; commercial use requires separate permission. See `LIC
 
 ## Citation
 See `CITATION.cff`.
+
+## Cite
+
+**APA**
+Stroh, C. (2025). *Era-Aware Defect Forecasting (Research Teaser)* [Software]. Zenodo. https://doi.org/10.5281/zenodo.17298533
+
+**BibTeX**
+```bibtex
+@software{stroh_era_aware_defect_forecasting_2025,
+  author  = {Stroh, Cynthia},
+  title   = {Era-Aware Defect Forecasting (Research Teaser)},
+  year    = {2025},
+  version = {v0.1.0},
+  doi     = {10.5281/zenodo.17298533},
+  url     = {https://doi.org/10.5281/zenodo.17298533},
+  note    = {Synthetic, source-available}
+}
