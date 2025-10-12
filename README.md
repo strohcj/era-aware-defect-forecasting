@@ -48,6 +48,7 @@ print(out.head())
 ## License
 This repository is released under a **source-available** license (BUSL-1.1). Non-commercial
 academic use is permitted; commercial use requires separate permission. See `LICENSE`.
+Non-commercial academic use permitted; commercial use requires permission (see LICENSE).
 
 ## Citation
 See `CITATION.cff`.
