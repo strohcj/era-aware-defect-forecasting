@@ -33,10 +33,16 @@ with **active developer capacity** and compares semantic **topic persistence** a
 
 ## Quickstart
 ```bash
+# Python 3.10–3.12 recommended
+python -m venv .venv && source .venv/bin/activate  # (Windows: .venv\Scripts\activate)
 pip install -r requirements-minimal.txt
 python -m src.synthetic_data --out data/synthetic
 python -m src.eval_sum_to_release --panel data/synthetic/biweekly_panel.csv
 python -m src.topic_alignment_demo --docinfo data/synthetic/docinfo_combined.csv --out results
+from src.eval_sum_to_release import evaluate_sum_to_release
+panel_csv = "data/synthetic/biweekly_panel.csv"
+out = evaluate_sum_to_release(panel_csv, metrics=["MAE","MAPE","WAPE"])
+print(out.head())
 ```
 
 ## License
