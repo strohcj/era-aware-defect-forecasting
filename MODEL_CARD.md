@@ -19,3 +19,6 @@ defect totals, and ActiveDevelopers; a parallel docinfo with Topics for centroid
 ## Risks
 - Misinterpretation of synthetic results as deployable metrics.
 - Overfitting if users adapt the toy code to small proprietary datasets without validation.
+
+Reproducibility: set `PYTHONHASHSEED=0` and pass `--seed 42` to scripts for deterministic runs.
+
