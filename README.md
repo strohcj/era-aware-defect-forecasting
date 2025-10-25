@@ -7,6 +7,7 @@
   <img alt="Era-Aware Defect Forecasting — overview"
        src="docs/overview_clean_light.png">
 </picture>
+
 <sub>Prefer dark? See the image directly: [docs/overview_clean_dark.png](docs/overview_clean_dark.png)</sub>
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--9787--0266-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0002-9787-0266) <br> [![GitHub](https://img.shields.io/badge/GitHub-strohcj-181717?logo=github&logoColor=white)](https://github.com/strohcj)
