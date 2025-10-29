@@ -42,9 +42,10 @@ with **active developer capacity** and compares semantic **topic persistence** a
 - `SCHEMA.md` – required columns and formats.
 
 ## Quickstart
-```bash
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/strohcj/era-aware-defect-forecasting/blob/main/notebooks/Colab_Quickstart.ipynb)
+
+Run locally: `python -m venv .venv && source .venv/bin/activate && pip install -r requirements.txt`
 
 # Python 3.10–3.12 recommended
 python -m venv .venv && source .venv/bin/activate  # (Windows: .venv\Scripts\activate)
