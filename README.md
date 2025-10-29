@@ -44,8 +44,6 @@ with **active developer capacity** and compares semantic **topic persistence** a
 ## Quickstart
 ```bash
 
-## Quickstart
-
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/strohcj/era-aware-defect-forecasting/blob/main/notebooks/Colab_Quickstart.ipynb)
 
 # Python 3.10–3.12 recommended
