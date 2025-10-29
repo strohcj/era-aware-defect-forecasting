@@ -45,6 +45,14 @@ with **active developer capacity** and compares semantic **topic persistence** a
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/strohcj/era-aware-defect-forecasting/blob/main/notebooks/Colab_Quickstart.ipynb)
 
+<!-- Fallback if Markdown badge ever stops rendering:
+<p>
+  <a href="https://colab.research.google.com/github/strohcj/era-aware-defect-forecasting/blob/main/notebooks/Colab_Quickstart.ipynb" target="_blank" rel="noopener">
+    <img alt="Open in Colab" src="https://colab.research.google.com/assets/colab-badge.svg">
+  </a>
+</p>
+-->
+
 Run locally: `python -m venv .venv && source .venv/bin/activate && pip install -r requirements.txt`
 
 # Python 3.10–3.12 recommended
